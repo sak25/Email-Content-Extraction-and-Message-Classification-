@@ -1,1 +1,1 @@
-# Email-Content-Extraction-and-Message-Classification-Using-Bulk-Mailer
+# Email-Content-Extraction-and-Message-Classification-
