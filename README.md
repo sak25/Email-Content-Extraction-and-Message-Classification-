@@ -1,1 +1,2 @@
 # Email-Content-Extraction-and-Message-Classification-
+The project aims at extracting email messages from inbox of user using Python and Classifying Email Content into different categories using Machine Learning and Natural Language Processing.The project is aimed at Classifying Email Content messages handled by Emitra department team which consists of user grievances which could then be further pre-processed according by different members in the team.
